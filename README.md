@@ -25,7 +25,7 @@ In this graph the males have higher count of bikes compared to females.
 
 ![image](https://user-images.githubusercontent.com/8925001/128662477-c86816d4-6a97-45c2-ba5a-618258c177e6.png)
 
-In this graph the male subscribers have higher count of bikes compared females.
+In this graph the male subscribers have a higher count of bikes compared to females.
 
 Summary
 
